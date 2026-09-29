@@ -1,7 +1,7 @@
 # Forest-Up
 
 ## About
-This open-source desktop application transforms images and videos from QGIS MCP Server into clean, analysis-ready datasets for biodiversity forest by using computer learning techniques.
+This open-source desktop application transforms images and videos from QGIS MCP Server into clean, analysis-ready datasets in the biodiversity forest for Engineer and conservationist by using computer learning techniques.
 
 ## Features
 - **Image Processing**: Convert raw images into usable data.
@@ -68,4 +68,5 @@ We welcome contributions from the community! Please follow these guidelines:
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-[![Forest-Up](https://img.shields.io/badge/Forest-Up-Open%20Source-blue.svg)](https://github.com/Nkdarmel/Forest-Up)
+
+[![Stars on GitHub](https://img.shields.io/github/stars/NNkdarmel/Forest-Up.svg?style=social)](https://github.com/Nkdarmel/Forest-Up)
