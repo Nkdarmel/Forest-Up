@@ -68,8 +68,4 @@ We welcome contributions from the community! Please follow these guidelines:
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-[![GitHub Achievements](https://github.com/github.com/Nkdarmel/Forest-Up/badges)](https://github.com/Nkdarmel/Forest-Up)
-```
-
-
-[![Forest-Up](https://img.shields.io/badge/Tree--Up-Open%20Source-blue.svg)](https://github.com/Nkdarmel/Forest-Up)
+[![Forest-Open Source](https://img.shields.io/badge/Forest-Up-Open%20Source-blue.svg)](https://github.com/Nkdarmel/Forest-Up)
